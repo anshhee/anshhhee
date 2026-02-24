@@ -1,4 +1,13 @@
+<h1 align="center">Ansh Jaiswal</h1>
+<p align="center">Undergraduate Developer • Building Systems • Shipping Daily</p>
+
 ---
+
+## About Me
+- Focused on Backend & Blockchain Development
+- Learning JavaScript & Python deeply
+- Building real-world projects
+- No zero days
 
 ## My Stack
 
