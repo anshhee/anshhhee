@@ -4,9 +4,6 @@
 ---
 
 ## About Me
-
-## About Me
-
 • 👾 Currently learning Web3, Smart Contracts and building decentralized applications.  
 • 🧠 Diving into AI Models, Full-Stack Web Development and Blockchain development.  
 • 📫 Reach me at: jaiswalanshv2@gmail.com  
